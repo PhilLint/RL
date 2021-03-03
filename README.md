@@ -17,7 +17,7 @@ Solutions and implementation from [Anca-Diana Vicol](https://github.com/ancadian
 
 ## Copyright
 
-Copyright © 2019 Anca-Diana Vicol, Max Schlögel, Benjamin Kolb, Philipp Lintl
+Copyright © 2019 Philipp Lintl, Bogdan Floris
 
 <p align=“justify”>
 This project is distributed under the <a href="LICENSE">MIT license</a>.  
