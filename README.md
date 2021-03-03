@@ -13,7 +13,7 @@ windy gridworld and the Cartpole environment.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-Solutions and implementation from [Anca-Diana Vicol](https://github.com/ancadiana23), [Max Schloegel](https://github.com/maschloerning), [Benjamin Kolb](https://github.com/BenjaminKolb) and [Philipp Lintl](https://github.com/PhilLint)
+Solutions and implementation from [Philipp Lintl](https://github.com/PhilLint) and [Bogdan Floris](https://github.com/BogdanFloris)
 
 ## Copyright
 
