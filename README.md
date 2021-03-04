@@ -1,5 +1,10 @@
 # Practical Labs for Reinforcement Learning course, MSc AI @ UvA 2019.
 
+## Theoretical Assignments 1&2
+
+[Report](https://github.com/PhilLint/RL/blob/master/hw1_report.pdf) corresponding to assignment [1](https://github.com/PhilLint/RL/blob/master/rl_homework1_v1(2).pdf).
+[Report](https://github.com/PhilLint/RL/blob/master/hw2_report.pdf) to assignment [2](https://github.com/PhilLint/RL/blob/master/rl_homework2(1).pdf)
+
 ## Lab 1:
 Non compulsory Lab on classical Reinforcement Learning approaches applied to a gridworld. Multiarmed Bandit [Code](https://github.com/PhilLint/RL/blob/master/RL_WC1_bandit.ipynb),
 [Lab1](https://github.com/PhilLint/RL/blob/master/lab1/lab1.ipynb) using OpenAIs Gym, Policy Evalutation, Policy Iteration, Value Iteration and Monte Carlo Prediction, Monte Carlo control with 
